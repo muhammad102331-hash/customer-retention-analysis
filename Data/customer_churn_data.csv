@@ -1,0 +1,1001 @@
+Customer_ID,Segment,Churn,Retention_Strategy,Revenue_Impact,Total_Spend,Tenure_Months,Last_Purchase_Date
+1,Large,Yes,Loyalty Program,Low,426.89,57,2023-03-19
+2,Small,No,Loyalty Program,Medium,524.19,34,2025-08-04
+3,Large,No,Loyalty Program,High,329.53,48,2024-11-18
+4,Large,No,Better Customer Support,High,457.75,20,2023-01-21
+5,Small,Yes,,Low,624.47,39,2024-07-19
+6,Small,No,Better Customer Support,Low,308.38,2,2025-04-06
+7,Large,No,,Low,612.62,1,2023-06-28
+8,Medium,No,Loyalty Program,Low,472.63,51,2025-12-18
+9,Large,No,Discount,Medium,548.72,36,2025-06-23
+10,Large,Yes,Better Customer Support,High,565.75,24,2024-10-30
+11,Large,Yes,Discount,Low,544.14,54,2023-07-10
+12,Large,No,Better Customer Support,Medium,413.5,27,2024-12-08
+13,Small,No,Loyalty Program,Low,463.55,2,2025-11-24
+14,Large,No,Better Customer Support,Low,353.84,31,2024-01-14
+15,Medium,No,Loyalty Program,High,549.18,57,2024-01-22
+16,Small,Yes,Better Customer Support,Low,670.21,14,2023-08-25
+17,Medium,No,Loyalty Program,High,317.56,2,2024-09-07
+18,Medium,Yes,Loyalty Program,High,423.84,29,2023-10-10
+19,Medium,No,,High,481.82,15,2023-01-01
+20,Medium,No,Loyalty Program,Medium,517.33,12,2024-04-08
+21,Small,No,,Medium,587.92,37,2025-08-24
+22,Small,Yes,Loyalty Program,High,484.78,28,2023-06-21
+23,Medium,Yes,Discount,Low,468.4,20,2025-04-22
+24,Medium,No,Loyalty Program,High,610.31,39,2024-11-20
+25,Small,Yes,Discount,Low,566.2,24,2024-07-28
+26,Small,No,Discount,High,553.9,21,2023-06-14
+27,Small,Yes,Loyalty Program,Low,511.25,10,2024-01-18
+28,Large,No,Discount,Medium,598.32,46,2023-07-28
+29,Large,No,,Low,434.37,14,2023-08-12
+30,Large,Yes,Better Customer Support,High,420.73,37,2023-01-03
+31,Medium,No,Loyalty Program,Medium,574.61,18,2024-01-07
+32,Large,Yes,Discount,Low,337.5,24,2024-09-02
+33,Medium,Yes,Loyalty Program,Low,509.22,14,2023-04-26
+34,Medium,No,,Low,468.34,34,2024-03-22
+35,Large,No,Loyalty Program,Low,359.42,58,2024-02-19
+36,Medium,No,Loyalty Program,Low,406.87,12,2025-06-10
+37,Large,Yes,Discount,Medium,489.1,22,2025-11-13
+38,Large,No,,Medium,603.4,56,2024-10-24
+39,Small,No,Better Customer Support,Medium,434.7,6,2025-12-09
+40,Large,No,Better Customer Support,Medium,621.34,36,2024-12-18
+41,Small,No,Discount,High,506.32,45,2025-11-16
+42,Large,No,Loyalty Program,Medium,631.04,36,2023-09-28
+43,Large,No,Discount,Low,439.55,22,2024-07-15
+44,Small,No,Discount,Low,495.12,14,2025-03-14
+45,Small,No,Discount,Medium,536.85,16,2023-09-04
+46,Large,No,Loyalty Program,Low,482.05,36,2024-01-22
+47,Medium,Yes,,Medium,595.3,56,2024-12-02
+48,Small,No,Discount,Low,279.24,25,2024-07-12
+49,Medium,No,Loyalty Program,High,742.24,32,2025-08-30
+50,Medium,Yes,,High,585.78,33,2025-09-10
+51,Medium,Yes,Discount,Medium,482.65,45,2023-12-18
+52,Small,No,Better Customer Support,Medium,444.77,36,2025-01-22
+53,Medium,No,,Medium,413.36,20,2025-02-19
+54,Small,No,Discount,Low,564.56,18,2025-10-21
+55,Medium,Yes,,Medium,599.5,38,2024-06-29
+56,Large,No,,High,483.75,3,2023-03-20
+57,Large,Yes,,Low,610.7,23,2023-11-30
+58,Small,Yes,,Medium,409.27,32,2025-06-07
+59,Large,Yes,,Low,391.62,45,2024-05-16
+60,Large,No,,Low,681.33,59,2025-02-03
+61,Medium,No,Discount,Medium,559.11,16,2025-07-09
+62,Small,No,Better Customer Support,Low,639.68,59,2024-07-03
+63,Medium,No,Loyalty Program,High,414.61,5,2023-01-14
+64,Medium,No,,High,407.65,4,2024-01-27
+65,Medium,No,Loyalty Program,Low,464.14,21,2023-11-06
+66,Medium,No,Discount,Medium,417.59,40,2024-01-21
+67,Medium,No,,Low,570.54,51,2025-08-31
+68,Medium,No,Better Customer Support,High,424.89,14,2023-12-06
+69,Medium,No,Loyalty Program,Low,382.83,39,2024-08-19
+70,Small,No,,Low,514.2,31,2025-01-26
+71,Large,No,Discount,High,371.0,14,2025-11-11
+72,Medium,No,Better Customer Support,Low,320.05,6,2023-10-18
+73,Medium,Yes,Loyalty Program,Low,513.33,12,2023-11-02
+74,Medium,No,Loyalty Program,Medium,325.08,16,2024-09-25
+75,Medium,No,,Medium,577.53,17,2024-09-16
+76,Medium,No,Better Customer Support,High,360.47,45,2025-07-27
+77,Medium,No,Better Customer Support,High,275.93,23,2025-04-27
+78,Large,No,Better Customer Support,High,470.62,14,2024-03-17
+79,Large,Yes,Better Customer Support,Medium,514.46,7,2024-05-17
+80,Medium,No,Discount,High,549.15,46,2023-05-10
+81,Large,No,Better Customer Support,High,517.2,32,2024-08-19
+82,Small,No,Loyalty Program,High,394.07,15,2025-05-11
+83,Medium,Yes,Loyalty Program,Medium,571.31,44,2024-08-15
+84,Small,No,Discount,Low,596.01,17,2025-09-25
+85,Small,No,Loyalty Program,High,379.42,41,2023-11-21
+86,Medium,No,Loyalty Program,Low,481.9,54,2025-12-28
+87,Large,No,Better Customer Support,High,472.56,47,2024-03-23
+88,Small,No,Loyalty Program,Low,522.04,44,2025-03-29
+89,Medium,Yes,Discount,Medium,479.51,34,2024-12-09
+90,Small,No,Better Customer Support,Medium,493.21,5,2023-09-22
+91,Small,Yes,,High,564.18,45,2024-09-03
+92,Small,No,Better Customer Support,Low,388.61,27,2025-04-11
+93,Small,Yes,Discount,Medium,573.74,52,2024-11-04
+94,Large,No,Better Customer Support,High,614.11,23,2023-06-06
+95,Small,No,Better Customer Support,High,663.41,40,2023-09-08
+96,Small,No,Discount,Medium,285.66,59,2025-05-27
+97,Small,No,Better Customer Support,Medium,481.71,14,2024-06-13
+98,Large,No,Discount,High,303.49,15,2023-11-23
+99,Small,Yes,Discount,Low,256.49,43,2025-08-18
+100,Small,No,,Low,514.41,33,2025-06-13
+101,Large,Yes,Loyalty Program,Low,460.08,53,2023-04-07
+102,Large,No,Loyalty Program,High,529.99,31,2024-05-27
+103,Large,No,Better Customer Support,Medium,548.61,35,2023-08-04
+104,Small,Yes,Better Customer Support,High,624.79,17,2023-05-05
+105,Large,Yes,,Medium,505.39,28,2023-02-28
+106,Large,No,,Low,792.34,19,2023-06-10
+107,Small,No,,Low,530.64,46,2023-10-11
+108,Large,No,Discount,Medium,684.25,54,2023-04-16
+109,Small,No,,Medium,266.72,23,2023-08-16
+110,Medium,No,,High,634.97,32,2023-11-14
+111,Large,Yes,Better Customer Support,Low,481.92,40,2025-03-12
+112,Medium,No,,High,305.17,13,2025-05-23
+113,Small,Yes,Discount,High,542.05,59,2024-04-16
+114,Large,No,Discount,High,469.7,20,2025-12-15
+115,Small,No,Better Customer Support,Low,558.01,35,2024-09-16
+116,Medium,No,,High,601.11,5,2023-01-13
+117,Small,No,,High,351.08,9,2025-11-07
+118,Large,No,Discount,High,601.49,29,2024-11-24
+119,Large,Yes,,High,500.65,6,2025-08-30
+120,Medium,No,,High,635.28,25,2023-04-23
+121,Small,No,,High,479.49,31,2023-08-17
+122,Large,No,Loyalty Program,Low,452.96,22,2023-06-20
+123,Medium,Yes,Better Customer Support,High,502.71,2,2023-10-22
+124,Large,No,Loyalty Program,Medium,510.19,45,2023-07-08
+125,Large,No,Better Customer Support,High,433.72,5,2024-03-01
+126,Small,No,Discount,High,450.37,27,2025-09-03
+127,Large,No,,Low,377.31,25,2024-10-19
+128,Small,No,Better Customer Support,Low,456.54,8,2025-07-07
+129,Large,No,Loyalty Program,Medium,567.63,55,2024-05-13
+130,Medium,Yes,,Medium,486.26,1,2025-01-31
+131,Large,No,Discount,Low,600.91,20,2025-05-15
+132,Small,No,Better Customer Support,Low,481.46,44,2025-04-05
+133,Small,No,Better Customer Support,High,356.85,23,2023-03-12
+134,Medium,No,Better Customer Support,Low,559.73,32,2023-09-05
+135,Large,No,,Medium,432.64,11,2023-05-26
+136,Large,No,Loyalty Program,High,476.66,39,2024-08-04
+137,Medium,No,Loyalty Program,Medium,623.76,47,2024-04-14
+138,Large,Yes,Better Customer Support,High,383.91,54,2023-07-12
+139,Large,No,Discount,Low,516.47,24,2025-12-27
+140,Small,No,Discount,Medium,495.95,11,2024-05-08
+141,Large,Yes,Loyalty Program,High,570.09,29,2023-02-21
+142,Large,No,Discount,High,585.52,54,2025-05-31
+143,Medium,No,Loyalty Program,Low,526.38,26,2023-12-29
+144,Medium,No,Better Customer Support,Low,463.96,16,2025-07-05
+145,Small,No,Loyalty Program,Low,547.34,35,2024-04-18
+146,Large,No,Loyalty Program,Medium,633.57,20,2024-06-04
+147,Large,Yes,Better Customer Support,High,497.27,46,2024-11-21
+148,Large,No,Discount,Low,473.27,3,2024-06-15
+149,Small,No,Loyalty Program,Medium,538.82,1,2025-04-19
+150,Small,Yes,Loyalty Program,Medium,503.87,58,2025-12-24
+151,Medium,No,Better Customer Support,Medium,366.23,53,2023-08-29
+152,Small,No,Discount,Low,523.93,47,2024-06-19
+153,Large,No,Loyalty Program,Low,365.32,1,2023-03-24
+154,Large,No,Better Customer Support,High,537.45,17,2025-09-08
+155,Small,No,Loyalty Program,High,420.29,2,2025-08-08
+156,Large,No,,Low,503.69,29,2024-09-02
+157,Large,No,Better Customer Support,Medium,539.06,20,2024-07-27
+158,Small,No,Discount,Medium,745.39,6,2023-10-13
+159,Small,Yes,Discount,Medium,574.27,8,2025-09-15
+160,Large,No,Discount,High,636.48,29,2024-04-03
+161,Large,Yes,Discount,Medium,687.17,48,2023-05-06
+162,Large,Yes,Loyalty Program,High,548.93,51,2024-02-29
+163,Medium,No,Loyalty Program,High,528.57,33,2024-07-07
+164,Medium,No,Discount,Medium,393.33,3,2024-09-01
+165,Medium,No,Discount,Medium,488.34,35,2023-04-22
+166,Small,No,Discount,Low,427.69,5,2024-02-06
+167,Medium,No,Loyalty Program,Low,459.89,27,2023-05-02
+168,Small,No,Discount,Medium,687.07,44,2023-09-30
+169,Small,Yes,Discount,High,511.46,12,2024-02-02
+170,Medium,No,,High,412.41,20,2024-04-15
+171,Medium,Yes,,High,637.45,45,2025-09-11
+172,Medium,No,Discount,High,595.53,20,2024-07-22
+173,Large,Yes,Better Customer Support,High,600.77,9,2025-06-15
+174,Medium,No,Discount,Low,299.39,39,2025-03-30
+175,Large,Yes,,Medium,694.87,4,2025-05-02
+176,Small,No,Better Customer Support,Low,444.15,51,2024-12-10
+177,Large,No,Better Customer Support,High,577.8,54,2023-11-17
+178,Medium,No,Discount,High,752.38,19,2023-06-28
+179,Small,Yes,,High,715.53,38,2025-06-15
+180,Small,No,,High,402.24,27,2023-08-07
+181,Small,Yes,Better Customer Support,Medium,355.55,45,2025-02-27
+182,Large,No,Discount,High,643.03,43,2024-05-06
+183,Medium,Yes,Loyalty Program,Medium,514.21,13,2023-03-02
+184,Small,Yes,Loyalty Program,High,449.91,13,2025-12-13
+185,Small,Yes,,Medium,562.12,57,2024-06-21
+186,Small,No,Loyalty Program,Low,483.71,22,2025-04-27
+187,Large,No,,High,570.13,28,2025-09-14
+188,Large,Yes,,Medium,506.7,52,2023-03-06
+189,Medium,No,,Low,572.24,47,2024-08-08
+190,Large,No,Loyalty Program,High,410.55,53,2023-06-20
+191,Small,No,,High,642.45,45,2024-06-18
+192,Medium,No,Better Customer Support,High,569.76,22,2024-11-23
+193,Small,No,Discount,Medium,564.63,43,2023-04-18
+194,Small,No,Discount,Medium,388.23,19,2025-03-24
+195,Large,Yes,,Low,669.96,8,2025-10-01
+196,Medium,Yes,Discount,Medium,498.63,52,2024-03-27
+197,Large,No,Loyalty Program,Medium,572.8,8,2024-08-12
+198,Large,No,Loyalty Program,High,467.72,42,2025-11-05
+199,Medium,No,Discount,High,526.09,26,2023-11-23
+200,Small,Yes,Loyalty Program,High,529.71,48,2024-08-30
+201,Small,No,Discount,High,218.01,51,2024-10-20
+202,Medium,No,Discount,High,558.24,26,2023-01-02
+203,Small,Yes,Discount,High,696.53,23,2025-10-30
+204,Medium,Yes,,High,553.98,43,2024-03-09
+205,Medium,No,Discount,Low,404.23,13,2023-05-05
+206,Large,No,,Low,565.0,28,2024-04-29
+207,Medium,Yes,Discount,Low,605.95,9,2024-10-13
+208,Large,Yes,Discount,Low,551.25,20,2025-03-10
+209,Small,Yes,Discount,High,492.59,56,2025-05-22
+210,Small,No,Loyalty Program,Low,475.79,19,2023-05-09
+211,Small,Yes,,High,475.37,48,2024-03-13
+212,Small,Yes,,Low,569.78,39,2025-01-20
+213,Large,No,Discount,Medium,359.29,51,2024-05-15
+214,Small,Yes,Discount,Low,462.81,12,2025-12-17
+215,Medium,No,Loyalty Program,Low,659.56,15,2023-07-30
+216,Medium,Yes,Loyalty Program,High,663.42,31,2025-06-20
+217,Medium,Yes,Loyalty Program,Low,352.19,55,2023-02-14
+218,Large,Yes,,Medium,386.86,14,2024-06-18
+219,Small,No,,High,472.94,11,2024-04-05
+220,Small,No,,High,589.26,26,2024-01-26
+221,Small,No,Discount,Low,317.25,42,2025-12-03
+222,Large,No,,High,494.52,27,2023-01-27
+223,Medium,No,Better Customer Support,High,452.58,11,2025-03-04
+224,Medium,Yes,Better Customer Support,High,632.6,38,2025-09-01
+225,Small,Yes,Loyalty Program,High,332.31,34,2024-07-01
+226,Medium,No,,High,509.25,43,2024-09-12
+227,Medium,Yes,Better Customer Support,High,460.64,19,2024-07-20
+228,Large,Yes,Loyalty Program,Medium,646.98,6,2024-12-04
+229,Large,Yes,,Low,559.77,46,2023-07-04
+230,Large,Yes,Discount,Medium,441.42,52,2025-12-28
+231,Large,Yes,Better Customer Support,High,585.34,38,2025-04-27
+232,Small,No,Discount,High,461.12,49,2024-08-21
+233,Large,No,,Low,599.93,42,2025-03-16
+234,Medium,No,Better Customer Support,Medium,476.29,28,2023-03-20
+235,Small,No,,Low,605.47,1,2024-08-01
+236,Medium,No,Discount,Medium,543.61,35,2024-02-17
+237,Medium,Yes,Better Customer Support,High,826.05,40,2024-06-29
+238,Medium,No,Discount,Low,494.71,8,2023-06-18
+239,Large,No,,Low,538.29,59,2024-11-11
+240,Large,Yes,,High,452.06,52,2024-08-05
+241,Small,No,Discount,Low,500.27,54,2024-05-29
+242,Small,No,Better Customer Support,Medium,229.82,47,2023-02-01
+243,Large,No,Discount,Medium,546.56,56,2023-10-14
+244,Medium,No,,Medium,634.29,7,2024-08-16
+245,Small,Yes,Discount,Medium,539.66,11,2025-12-02
+246,Large,No,,High,368.61,39,2024-09-08
+247,Large,No,Discount,Low,419.82,4,2025-10-21
+248,Large,Yes,Better Customer Support,Medium,256.98,25,2023-09-27
+249,Medium,No,Better Customer Support,High,597.89,12,2024-06-01
+250,Large,No,Discount,Low,399.35,26,2025-10-30
+251,Large,No,Discount,Low,497.13,38,2024-08-05
+252,Large,No,Better Customer Support,High,484.63,46,2023-08-14
+253,Large,No,,High,648.77,12,2024-10-31
+254,Small,Yes,Better Customer Support,Medium,508.53,43,2025-07-05
+255,Small,Yes,,Low,580.89,51,2023-05-06
+256,Large,No,Discount,Low,554.65,53,2025-08-13
+257,Medium,No,Discount,High,635.94,37,2023-03-15
+258,Small,Yes,,Low,476.09,46,2023-02-25
+259,Large,Yes,Discount,Medium,686.96,53,2024-12-20
+260,Small,No,,Low,301.43,24,2024-07-06
+261,Small,No,Loyalty Program,High,585.75,16,2023-02-01
+262,Medium,No,Better Customer Support,High,413.34,57,2024-07-27
+263,Large,Yes,Loyalty Program,Medium,450.73,13,2024-10-28
+264,Large,Yes,,Medium,556.94,25,2023-10-11
+265,Medium,Yes,Better Customer Support,Low,556.14,54,2023-07-06
+266,Medium,No,,Low,560.64,54,2024-05-12
+267,Large,Yes,Better Customer Support,High,361.38,57,2023-05-10
+268,Large,No,Better Customer Support,Medium,644.9,52,2024-09-30
+269,Medium,Yes,Better Customer Support,Medium,409.94,54,2023-04-24
+270,Small,No,Better Customer Support,Medium,423.27,4,2023-01-13
+271,Small,No,,Low,563.79,11,2024-03-19
+272,Medium,No,Better Customer Support,Medium,471.33,32,2024-03-22
+273,Small,Yes,Better Customer Support,High,530.83,49,2025-09-12
+274,Medium,Yes,Loyalty Program,High,284.34,7,2025-09-19
+275,Small,Yes,Discount,Low,528.43,46,2024-12-15
+276,Small,No,Discount,Low,521.78,58,2023-03-15
+277,Large,No,Loyalty Program,Medium,449.01,11,2024-06-20
+278,Large,No,Loyalty Program,Low,292.59,28,2023-04-11
+279,Small,No,,High,478.72,54,2023-06-25
+280,Small,No,,Medium,496.26,41,2024-03-02
+281,Large,Yes,,High,463.28,23,2023-02-10
+282,Large,No,Loyalty Program,Medium,316.38,45,2024-03-04
+283,Large,No,Loyalty Program,Low,659.47,23,2023-12-10
+284,Medium,No,Better Customer Support,Medium,436.11,50,2024-01-01
+285,Small,No,,Medium,477.78,28,2024-08-31
+286,Large,Yes,,High,259.05,43,2024-10-18
+287,Small,Yes,,High,659.49,47,2024-12-28
+288,Medium,No,Discount,Medium,453.35,57,2023-08-17
+289,Medium,Yes,Better Customer Support,Low,509.85,26,2025-04-04
+290,Large,No,,Low,612.07,25,2025-06-07
+291,Medium,Yes,,High,432.37,54,2025-09-10
+292,Small,No,,Low,596.32,29,2025-04-15
+293,Large,Yes,Discount,High,293.87,19,2023-04-27
+294,Small,No,Discount,Low,555.1,33,2025-03-28
+295,Small,No,Loyalty Program,Medium,657.22,36,2024-01-03
+296,Medium,Yes,Better Customer Support,High,441.96,14,2023-06-17
+297,Medium,No,Loyalty Program,High,611.89,14,2025-08-11
+298,Medium,No,Better Customer Support,Medium,683.39,35,2024-10-22
+299,Medium,No,Discount,High,474.52,30,2024-11-25
+300,Medium,No,,Low,466.25,28,2025-07-13
+301,Large,No,Loyalty Program,Low,410.17,17,2023-06-01
+302,Small,Yes,,High,449.03,3,2024-08-08
+303,Small,Yes,Loyalty Program,Low,418.46,16,2025-07-01
+304,Small,Yes,Discount,High,410.09,46,2023-10-01
+305,Small,No,Discount,Medium,619.88,30,2024-05-10
+306,Medium,Yes,Discount,High,421.01,52,2023-04-11
+307,Small,No,Loyalty Program,Medium,525.85,29,2024-07-10
+308,Large,No,Better Customer Support,Low,503.82,45,2023-03-14
+309,Large,No,Loyalty Program,Medium,649.81,15,2025-11-03
+310,Small,No,Better Customer Support,Low,449.68,46,2023-06-06
+311,Small,Yes,Loyalty Program,High,538.11,56,2025-01-04
+312,Large,Yes,Loyalty Program,Low,579.11,25,2023-05-12
+313,Large,No,Discount,High,648.97,51,2025-10-15
+314,Medium,No,,High,448.22,38,2024-07-12
+315,Large,No,,Medium,438.21,42,2023-04-17
+316,Medium,No,Better Customer Support,Medium,393.82,59,2023-09-22
+317,Medium,Yes,,Medium,723.63,47,2023-06-04
+318,Medium,No,Loyalty Program,Medium,638.45,53,2025-09-14
+319,Medium,No,Loyalty Program,Low,495.78,54,2025-09-23
+320,Medium,No,Discount,Low,693.14,52,2023-09-04
+321,Small,Yes,Discount,Low,489.81,58,2024-06-14
+322,Large,No,,High,572.44,38,2025-05-07
+323,Medium,No,Better Customer Support,Low,501.02,23,2024-06-21
+324,Large,Yes,,Low,539.78,25,2024-12-29
+325,Large,No,,Low,529.18,42,2023-06-03
+326,Medium,Yes,,Medium,457.5,7,2023-04-02
+327,Small,No,,Low,609.25,22,2023-12-04
+328,Medium,No,Loyalty Program,High,571.6,17,2024-03-25
+329,Small,Yes,Better Customer Support,Medium,602.77,18,2025-03-20
+330,Large,No,Loyalty Program,High,532.02,49,2025-02-25
+331,Small,No,Better Customer Support,Low,409.34,41,2023-09-30
+332,Small,No,Discount,Medium,670.94,10,2024-08-10
+333,Small,No,,High,473.74,10,2023-06-26
+334,Large,No,Loyalty Program,Low,536.41,57,2025-04-10
+335,Large,No,Better Customer Support,High,563.54,7,2024-10-04
+336,Small,No,Discount,High,535.74,48,2025-12-08
+337,Small,Yes,Discount,High,591.54,50,2024-07-20
+338,Medium,No,,Low,607.34,38,2024-10-27
+339,Small,Yes,Better Customer Support,Low,477.52,27,2025-05-17
+340,Medium,No,Loyalty Program,High,662.55,52,2025-12-05
+341,Small,No,,Medium,473.31,33,2023-10-29
+342,Medium,Yes,Loyalty Program,Medium,533.67,1,2025-05-17
+343,Large,No,Discount,Low,461.23,44,2025-06-30
+344,Small,No,Loyalty Program,Low,432.65,53,2024-02-12
+345,Small,Yes,Loyalty Program,Low,604.42,34,2025-04-01
+346,Small,No,,Low,812.19,4,2024-07-14
+347,Small,No,Loyalty Program,Low,463.82,17,2024-04-08
+348,Medium,Yes,,Medium,621.53,4,2023-05-24
+349,Small,No,Discount,Low,467.41,43,2024-03-17
+350,Large,Yes,,High,498.95,54,2024-05-01
+351,Large,No,,High,675.76,26,2025-05-09
+352,Small,No,Better Customer Support,Medium,392.65,4,2023-05-28
+353,Large,No,Loyalty Program,High,366.18,1,2025-12-30
+354,Small,No,Discount,Medium,491.28,7,2025-03-21
+355,Small,No,,Medium,566.37,30,2024-10-27
+356,Large,No,Discount,High,546.37,50,2023-03-31
+357,Small,No,Better Customer Support,Low,536.07,9,2023-07-18
+358,Large,No,Loyalty Program,High,503.41,35,2024-06-21
+359,Medium,Yes,,High,578.65,8,2023-10-28
+360,Small,No,Loyalty Program,Medium,208.63,24,2024-12-24
+361,Medium,Yes,Better Customer Support,High,424.92,19,2025-08-20
+362,Large,Yes,Better Customer Support,Medium,490.64,36,2023-03-09
+363,Medium,Yes,Discount,Low,570.45,50,2024-04-03
+364,Medium,No,,Low,648.98,52,2024-02-02
+365,Large,No,Discount,Low,411.49,59,2024-09-11
+366,Medium,No,Better Customer Support,High,645.71,43,2024-12-30
+367,Medium,Yes,Loyalty Program,Medium,454.74,27,2024-07-09
+368,Large,No,Discount,Low,487.01,32,2025-02-19
+369,Medium,No,Discount,Medium,558.14,14,2025-06-12
+370,Large,No,Loyalty Program,Medium,479.68,57,2024-09-01
+371,Medium,No,Discount,Low,611.01,18,2025-01-17
+372,Large,No,Loyalty Program,Low,459.54,28,2023-10-09
+373,Large,No,,Medium,461.05,29,2024-10-22
+374,Medium,No,Loyalty Program,Low,605.2,16,2025-07-12
+375,Medium,Yes,,Medium,423.69,35,2025-09-22
+376,Medium,Yes,Loyalty Program,Medium,524.89,47,2025-01-15
+377,Small,No,Better Customer Support,Low,333.95,59,2023-03-28
+378,Small,Yes,Better Customer Support,High,681.96,59,2025-03-01
+379,Small,No,,Low,620.66,31,2023-10-31
+380,Large,No,,High,775.01,4,2023-05-10
+381,Medium,No,Better Customer Support,Medium,633.84,37,2024-08-18
+382,Large,No,,Medium,387.03,17,2024-07-11
+383,Small,No,Loyalty Program,High,566.86,39,2025-06-17
+384,Medium,No,Loyalty Program,Medium,408.2,48,2023-03-19
+385,Large,No,Better Customer Support,High,657.8,46,2025-02-22
+386,Medium,No,Discount,High,389.89,26,2024-11-04
+387,Large,No,Loyalty Program,Medium,385.08,48,2023-08-26
+388,Medium,No,,High,339.02,39,2023-10-05
+389,Small,No,Discount,Low,451.16,41,2025-11-07
+390,Small,No,Discount,Low,431.05,4,2024-06-07
+391,Medium,No,Loyalty Program,Medium,373.84,30,2023-06-29
+392,Large,No,Loyalty Program,Medium,698.98,30,2023-05-03
+393,Small,No,Discount,High,552.99,22,2025-12-10
+394,Small,No,Discount,High,541.22,11,2025-12-30
+395,Small,Yes,Better Customer Support,High,658.92,2,2024-04-24
+396,Medium,Yes,,High,525.63,44,2025-11-08
+397,Medium,No,Better Customer Support,Low,425.13,12,2023-03-25
+398,Large,Yes,Loyalty Program,Low,329.98,30,2024-07-18
+399,Large,Yes,Better Customer Support,Medium,419.49,36,2024-09-10
+400,Large,Yes,Better Customer Support,High,650.54,18,2023-12-23
+401,Medium,Yes,Better Customer Support,High,374.47,26,2025-03-26
+402,Medium,Yes,Better Customer Support,Medium,535.31,53,2024-10-08
+403,Large,No,,High,603.39,7,2024-03-18
+404,Large,No,,High,528.53,1,2025-12-28
+405,Medium,No,Discount,High,539.9,58,2024-06-06
+406,Large,No,Loyalty Program,High,565.56,26,2023-05-23
+407,Small,Yes,Better Customer Support,High,537.93,23,2023-07-11
+408,Medium,No,Discount,Medium,660.91,26,2024-01-13
+409,Large,No,Discount,High,395.97,45,2024-08-03
+410,Medium,Yes,Discount,Medium,524.04,6,2024-06-18
+411,Small,No,,High,318.18,6,2025-10-29
+412,Medium,No,Better Customer Support,Low,292.63,44,2023-04-03
+413,Medium,No,Better Customer Support,Low,491.83,8,2024-06-12
+414,Medium,No,Loyalty Program,Low,554.34,24,2024-02-09
+415,Medium,No,Better Customer Support,Low,663.07,22,2025-04-19
+416,Small,Yes,Better Customer Support,Medium,741.98,19,2025-06-07
+417,Medium,No,Discount,Medium,631.99,37,2024-02-26
+418,Medium,Yes,Loyalty Program,High,572.72,18,2024-04-16
+419,Large,No,Better Customer Support,Low,516.0,31,2025-06-11
+420,Medium,No,,Medium,346.88,37,2024-06-30
+421,Large,No,Better Customer Support,High,485.4,30,2024-09-22
+422,Small,No,Discount,High,629.04,57,2025-11-03
+423,Small,Yes,,Medium,589.83,42,2025-02-16
+424,Small,Yes,Discount,Low,371.37,33,2023-12-30
+425,Small,Yes,Better Customer Support,High,561.4,10,2023-04-29
+426,Large,Yes,,Low,552.84,37,2024-06-29
+427,Medium,No,Loyalty Program,Low,534.99,12,2024-06-05
+428,Small,No,Loyalty Program,Low,497.21,54,2024-09-25
+429,Medium,Yes,,High,566.56,30,2025-08-20
+430,Large,No,,Low,569.73,27,2025-08-15
+431,Large,No,Discount,High,435.85,39,2025-06-01
+432,Large,No,,Low,545.5,9,2025-02-18
+433,Small,No,Discount,High,481.06,54,2025-05-20
+434,Medium,Yes,Better Customer Support,Low,351.28,21,2024-05-30
+435,Medium,No,Discount,Medium,443.84,12,2025-07-26
+436,Medium,No,,Low,343.63,55,2025-05-15
+437,Large,No,,Low,598.01,29,2023-04-16
+438,Small,Yes,Better Customer Support,High,535.59,33,2023-08-02
+439,Large,No,,High,464.45,43,2025-04-29
+440,Large,Yes,,Low,642.05,53,2023-07-16
+441,Medium,Yes,Loyalty Program,Medium,506.8,15,2023-01-19
+442,Large,No,Loyalty Program,Medium,356.88,2,2024-10-03
+443,Medium,No,Better Customer Support,High,456.05,52,2025-11-01
+444,Small,No,Discount,Medium,663.29,39,2023-11-26
+445,Medium,Yes,Loyalty Program,Low,433.05,53,2025-05-15
+446,Small,No,Discount,High,527.52,44,2025-02-12
+447,Medium,Yes,,Low,574.39,54,2024-01-27
+448,Large,Yes,Loyalty Program,High,558.99,18,2024-09-28
+449,Large,No,Better Customer Support,High,744.95,3,2023-11-03
+450,Small,No,Better Customer Support,High,382.37,7,2025-06-13
+451,Small,No,Better Customer Support,High,392.35,43,2024-10-13
+452,Small,No,Loyalty Program,Medium,384.02,18,2025-04-20
+453,Medium,No,Discount,Low,470.41,44,2025-10-22
+454,Medium,No,,Low,609.94,38,2024-06-03
+455,Small,Yes,Discount,Low,396.83,37,2024-09-27
+456,Large,No,Discount,High,611.34,58,2025-01-09
+457,Medium,No,,Medium,503.51,33,2024-04-13
+458,Medium,Yes,,Low,389.1,44,2023-07-31
+459,Medium,No,Loyalty Program,Medium,324.86,59,2025-10-28
+460,Small,No,Loyalty Program,High,347.24,31,2025-03-14
+461,Small,Yes,Loyalty Program,Low,433.41,58,2024-04-21
+462,Small,Yes,Loyalty Program,Medium,483.08,11,2025-05-23
+463,Small,No,Loyalty Program,High,634.61,4,2024-04-04
+464,Small,Yes,,Medium,579.91,59,2023-09-10
+465,Large,No,Discount,Low,416.11,18,2025-01-21
+466,Large,No,Loyalty Program,Low,540.87,4,2025-09-07
+467,Small,No,Loyalty Program,High,665.15,49,2025-05-03
+468,Medium,No,Discount,High,687.39,34,2023-08-24
+469,Small,No,Loyalty Program,High,468.56,29,2024-04-22
+470,Large,No,Discount,Medium,595.83,24,2024-11-09
+471,Large,No,Discount,Medium,639.0,22,2025-11-09
+472,Medium,No,,Medium,349.29,2,2023-08-04
+473,Large,Yes,Better Customer Support,High,448.76,44,2025-05-04
+474,Small,No,,Low,722.0,6,2023-05-15
+475,Medium,No,Better Customer Support,Low,469.9,42,2025-06-23
+476,Small,No,Better Customer Support,Medium,207.1,25,2024-02-14
+477,Small,No,Better Customer Support,Medium,487.9,55,2023-03-27
+478,Medium,No,Loyalty Program,Low,612.46,57,2024-07-09
+479,Small,No,,Low,500.65,21,2024-01-13
+480,Large,No,Better Customer Support,Medium,571.54,55,2025-12-10
+481,Small,No,Discount,Medium,593.82,59,2023-08-30
+482,Medium,No,Loyalty Program,Low,464.51,16,2025-07-08
+483,Medium,No,,High,448.06,31,2023-09-23
+484,Medium,No,Better Customer Support,Medium,515.34,14,2024-12-12
+485,Small,Yes,Discount,Low,517.78,39,2023-03-11
+486,Medium,No,,Low,505.41,28,2023-02-26
+487,Medium,No,,Low,509.52,32,2023-02-08
+488,Small,Yes,Loyalty Program,Low,425.15,28,2025-03-11
+489,Large,No,,High,575.03,51,2025-11-07
+490,Small,Yes,Loyalty Program,Low,559.92,55,2025-01-01
+491,Medium,No,Better Customer Support,Medium,366.4,49,2025-04-04
+492,Medium,No,Loyalty Program,High,461.08,9,2025-01-25
+493,Small,Yes,Discount,Low,509.31,58,2023-12-18
+494,Large,No,Loyalty Program,High,446.57,45,2023-10-10
+495,Medium,No,Discount,Medium,563.74,22,2023-04-20
+496,Medium,No,Loyalty Program,Low,493.31,32,2025-10-13
+497,Medium,Yes,,Medium,516.91,5,2024-06-27
+498,Small,Yes,Better Customer Support,Low,459.93,23,2023-01-25
+499,Medium,No,Discount,Low,300.68,5,2025-04-22
+500,Large,No,Loyalty Program,Low,294.97,42,2025-03-01
+501,Medium,No,Loyalty Program,Low,558.96,53,2025-01-07
+502,Medium,Yes,Loyalty Program,Low,526.69,32,2023-02-26
+503,Large,No,,High,543.87,59,2023-06-29
+504,Medium,No,,Low,513.45,10,2023-08-20
+505,Small,No,Discount,Low,521.46,59,2023-12-09
+506,Small,Yes,Discount,High,596.9,39,2024-04-21
+507,Small,No,,High,544.46,58,2024-07-29
+508,Large,No,Discount,High,604.09,15,2024-03-30
+509,Medium,No,Better Customer Support,High,517.15,7,2023-10-16
+510,Small,No,Better Customer Support,High,469.96,29,2023-09-15
+511,Large,No,,High,519.42,59,2024-06-13
+512,Medium,No,Discount,Low,416.38,47,2024-11-17
+513,Large,Yes,Loyalty Program,Low,462.02,3,2025-07-17
+514,Small,No,Better Customer Support,Medium,517.76,19,2023-08-17
+515,Small,No,,Low,516.43,10,2024-08-18
+516,Small,Yes,Discount,Low,489.36,28,2024-03-10
+517,Large,No,,High,361.18,29,2025-05-31
+518,Large,No,Loyalty Program,High,563.64,15,2025-10-17
+519,Small,Yes,Better Customer Support,Low,583.42,35,2024-02-06
+520,Large,No,,Medium,664.37,6,2024-09-13
+521,Small,No,,High,544.18,12,2023-03-29
+522,Small,No,,Low,500.15,47,2024-08-06
+523,Medium,Yes,Loyalty Program,Low,398.7,38,2023-11-05
+524,Large,No,,Medium,649.2,13,2025-06-24
+525,Small,No,Loyalty Program,Medium,524.78,29,2023-12-09
+526,Small,No,Loyalty Program,High,519.34,19,2024-03-11
+527,Large,No,Loyalty Program,Medium,474.59,3,2023-06-26
+528,Medium,Yes,Better Customer Support,Low,468.2,8,2023-05-19
+529,Medium,No,Better Customer Support,Low,568.83,8,2023-07-13
+530,Small,Yes,,Medium,397.86,55,2025-07-31
+531,Large,Yes,,Medium,662.54,58,2024-06-08
+532,Medium,No,Better Customer Support,Medium,640.75,20,2025-12-01
+533,Large,No,Discount,Medium,464.59,47,2025-07-03
+534,Large,No,Better Customer Support,High,413.61,4,2023-07-29
+535,Small,No,Loyalty Program,Medium,298.48,51,2025-01-10
+536,Medium,No,Better Customer Support,High,374.86,21,2025-05-11
+537,Small,Yes,Loyalty Program,Low,572.99,3,2025-08-11
+538,Medium,No,,Medium,531.53,45,2025-04-12
+539,Medium,No,Discount,High,549.37,8,2023-05-20
+540,Medium,No,,Medium,315.44,23,2025-03-02
+541,Medium,Yes,Loyalty Program,Low,460.42,16,2024-06-29
+542,Medium,No,Loyalty Program,Low,636.73,13,2025-10-13
+543,Large,No,Loyalty Program,Low,490.4,3,2023-02-26
+544,Small,Yes,Discount,Medium,372.77,48,2023-04-22
+545,Large,Yes,Better Customer Support,Medium,488.84,9,2023-01-05
+546,Medium,No,,High,422.9,14,2025-11-02
+547,Small,No,,Low,533.37,13,2023-03-31
+548,Medium,Yes,Better Customer Support,Medium,502.05,53,2024-09-07
+549,Small,No,,Low,554.33,57,2025-06-09
+550,Large,Yes,Discount,Low,378.21,7,2024-11-28
+551,Small,No,,High,455.13,15,2025-06-16
+552,Small,No,Loyalty Program,High,609.04,7,2025-08-28
+553,Small,No,Better Customer Support,High,364.57,38,2024-10-29
+554,Small,No,Discount,High,399.69,34,2024-08-16
+555,Small,No,Better Customer Support,Low,519.93,41,2024-08-11
+556,Medium,Yes,Discount,High,528.67,22,2024-04-29
+557,Small,No,Loyalty Program,High,451.12,24,2025-09-08
+558,Small,No,Better Customer Support,High,472.16,49,2025-08-29
+559,Large,No,,High,553.32,37,2024-09-30
+560,Small,Yes,Discount,Low,584.96,44,2025-09-23
+561,Large,Yes,Better Customer Support,High,393.08,1,2023-10-09
+562,Medium,Yes,,Low,536.43,10,2025-09-12
+563,Small,No,Better Customer Support,Medium,651.2,43,2023-01-16
+564,Large,No,Better Customer Support,Low,488.41,16,2025-07-24
+565,Large,No,Better Customer Support,Low,392.02,46,2023-09-11
+566,Medium,No,Discount,High,387.39,8,2023-11-25
+567,Small,No,,Medium,483.93,56,2024-06-27
+568,Small,Yes,Loyalty Program,Medium,603.58,49,2025-02-21
+569,Large,No,Discount,Medium,495.92,25,2025-09-23
+570,Small,No,Discount,Medium,518.92,50,2025-04-24
+571,Large,No,Discount,Low,400.37,12,2024-01-01
+572,Small,No,Loyalty Program,Medium,598.31,25,2024-10-16
+573,Large,No,,Low,385.43,17,2025-01-29
+574,Small,No,,Low,449.55,26,2024-09-30
+575,Medium,Yes,,Low,562.99,46,2025-11-29
+576,Small,Yes,Better Customer Support,Medium,296.06,48,2025-07-12
+577,Small,No,Better Customer Support,High,517.4,14,2024-02-20
+578,Medium,No,Better Customer Support,High,396.09,41,2023-09-12
+579,Small,No,Loyalty Program,Medium,501.65,36,2024-12-10
+580,Medium,No,Better Customer Support,High,464.79,57,2024-07-30
+581,Small,Yes,Loyalty Program,High,710.58,23,2025-06-18
+582,Large,Yes,,Low,460.69,43,2023-01-11
+583,Large,No,Better Customer Support,Low,684.27,6,2023-01-26
+584,Small,No,Better Customer Support,Medium,558.7,47,2025-08-14
+585,Small,Yes,Discount,Medium,419.85,5,2024-02-25
+586,Small,No,Loyalty Program,High,533.08,43,2024-05-10
+587,Large,Yes,,Low,469.56,25,2023-08-25
+588,Small,No,Discount,Medium,524.22,18,2025-10-05
+589,Large,Yes,Discount,Medium,428.61,13,2023-08-07
+590,Medium,No,,Medium,669.02,43,2024-04-05
+591,Large,No,Discount,Medium,592.54,14,2024-10-24
+592,Large,No,Loyalty Program,Medium,503.18,28,2024-09-26
+593,Medium,Yes,Loyalty Program,Medium,672.91,18,2025-09-16
+594,Large,Yes,Better Customer Support,High,507.43,59,2023-07-08
+595,Small,No,Discount,Low,609.76,57,2023-09-12
+596,Small,No,Better Customer Support,Low,503.83,28,2023-03-09
+597,Large,No,Discount,Medium,539.39,51,2024-09-07
+598,Small,Yes,Loyalty Program,Low,491.86,56,2023-12-02
+599,Large,No,Loyalty Program,Low,509.53,27,2024-11-01
+600,Small,No,Loyalty Program,Low,517.05,32,2025-03-31
+601,Small,No,Discount,Medium,433.03,47,2025-05-23
+602,Large,Yes,Loyalty Program,Medium,459.89,9,2023-10-27
+603,Small,No,Discount,Low,478.32,40,2023-12-23
+604,Large,Yes,Better Customer Support,Low,522.97,32,2023-09-13
+605,Small,Yes,Discount,Medium,496.94,20,2025-10-04
+606,Small,No,Better Customer Support,High,617.3,28,2023-12-19
+607,Medium,Yes,Discount,Low,584.71,33,2024-06-07
+608,Medium,No,Better Customer Support,High,480.37,4,2025-08-07
+609,Large,No,Loyalty Program,Low,638.18,46,2025-01-25
+610,Medium,No,Better Customer Support,High,687.3,57,2023-10-11
+611,Large,No,Loyalty Program,High,295.62,34,2023-04-09
+612,Medium,Yes,Loyalty Program,High,593.23,48,2023-07-16
+613,Small,No,Better Customer Support,Medium,430.7,3,2024-04-26
+614,Large,No,Discount,High,580.07,26,2025-05-27
+615,Large,Yes,Discount,High,623.82,8,2024-09-06
+616,Small,No,,High,412.3,6,2024-09-09
+617,Large,Yes,Discount,Low,314.77,16,2024-01-03
+618,Large,Yes,,High,583.54,24,2024-07-23
+619,Medium,No,Discount,Low,513.54,48,2024-08-12
+620,Large,Yes,Discount,High,333.16,39,2025-12-01
+621,Small,No,Loyalty Program,High,752.96,30,2024-02-26
+622,Medium,No,,Medium,562.44,45,2025-04-15
+623,Medium,No,Discount,Low,567.01,13,2024-06-28
+624,Small,Yes,,High,636.58,5,2023-03-12
+625,Small,Yes,Loyalty Program,Low,441.92,25,2025-02-06
+626,Medium,Yes,Loyalty Program,Low,513.05,20,2023-11-03
+627,Large,No,,Medium,368.07,54,2024-01-12
+628,Medium,No,Loyalty Program,Medium,439.21,18,2024-10-16
+629,Small,Yes,Better Customer Support,Medium,538.57,47,2024-11-08
+630,Medium,No,Better Customer Support,Medium,333.47,18,2024-02-03
+631,Small,Yes,Loyalty Program,Medium,436.37,2,2023-08-09
+632,Medium,No,Better Customer Support,Medium,407.21,10,2023-07-01
+633,Large,No,Discount,Medium,514.21,55,2023-11-03
+634,Medium,No,,Medium,557.47,45,2024-06-05
+635,Medium,No,Discount,High,574.22,50,2025-10-10
+636,Small,No,,Low,599.88,47,2023-01-04
+637,Small,No,Loyalty Program,Medium,637.21,12,2025-05-12
+638,Small,No,Discount,Medium,560.72,47,2025-04-27
+639,Medium,Yes,Loyalty Program,Low,688.73,13,2025-03-14
+640,Large,No,Loyalty Program,High,511.95,50,2023-08-03
+641,Small,No,,Low,482.67,47,2025-08-29
+642,Small,No,,Low,560.73,57,2023-04-11
+643,Medium,No,,Medium,478.36,55,2025-08-20
+644,Small,No,Discount,Low,685.26,11,2024-07-26
+645,Large,No,Better Customer Support,Low,613.1,19,2024-10-19
+646,Large,No,,Medium,575.03,35,2025-07-27
+647,Small,Yes,,Medium,513.14,39,2025-12-22
+648,Small,Yes,Discount,Medium,459.25,53,2023-08-14
+649,Medium,Yes,,Medium,570.13,26,2023-04-15
+650,Large,Yes,Discount,Low,387.29,46,2025-02-10
+651,Large,No,Loyalty Program,Low,653.44,14,2024-03-04
+652,Small,Yes,,High,482.24,54,2024-03-09
+653,Medium,No,,High,530.51,45,2025-11-17
+654,Large,No,Loyalty Program,Low,409.04,44,2024-11-12
+655,Large,Yes,Loyalty Program,High,572.3,24,2024-08-10
+656,Medium,No,Loyalty Program,Low,454.63,41,2025-12-28
+657,Medium,No,,High,564.92,1,2025-05-15
+658,Large,No,Better Customer Support,Medium,575.74,51,2025-01-15
+659,Large,No,Better Customer Support,High,435.24,43,2025-05-13
+660,Medium,No,Better Customer Support,Medium,387.65,55,2024-01-03
+661,Large,Yes,,Medium,653.19,22,2023-09-08
+662,Small,No,Loyalty Program,Medium,480.77,23,2025-05-08
+663,Small,No,,Medium,522.48,56,2025-05-05
+664,Medium,No,Loyalty Program,High,548.55,54,2024-07-14
+665,Medium,Yes,,Low,374.63,19,2023-10-21
+666,Medium,No,,Medium,546.27,18,2025-07-07
+667,Small,Yes,Loyalty Program,High,509.91,12,2024-03-08
+668,Large,Yes,Better Customer Support,Medium,435.65,55,2023-02-28
+669,Small,Yes,Loyalty Program,High,384.35,28,2025-08-26
+670,Large,No,Discount,High,560.59,28,2025-04-15
+671,Small,No,Discount,High,612.77,59,2023-07-18
+672,Large,No,Loyalty Program,Low,517.86,33,2023-08-03
+673,Small,No,,High,356.55,19,2025-06-16
+674,Medium,No,Discount,High,394.27,28,2024-04-16
+675,Small,No,Discount,Low,456.79,59,2023-09-04
+676,Large,No,,Low,656.46,52,2024-01-17
+677,Small,No,,High,475.32,49,2025-09-17
+678,Small,Yes,Better Customer Support,Low,453.14,37,2025-07-15
+679,Small,No,,Medium,332.65,26,2024-07-13
+680,Medium,No,Loyalty Program,Medium,434.33,35,2025-12-10
+681,Small,No,Loyalty Program,Low,376.71,34,2024-11-19
+682,Medium,No,Better Customer Support,Low,399.68,35,2024-01-15
+683,Medium,No,Discount,High,512.0,40,2024-04-18
+684,Small,No,Discount,Low,459.88,16,2024-11-27
+685,Small,No,,High,669.95,38,2025-06-29
+686,Small,No,Loyalty Program,Medium,607.8,13,2025-08-17
+687,Large,Yes,Discount,Low,439.11,23,2024-04-22
+688,Small,No,Better Customer Support,High,408.32,54,2025-09-30
+689,Medium,No,Better Customer Support,High,638.26,22,2025-07-14
+690,Small,Yes,Loyalty Program,Medium,666.0,16,2024-12-07
+691,Large,No,Better Customer Support,Low,280.58,28,2025-05-03
+692,Small,No,Better Customer Support,Medium,509.29,48,2025-10-13
+693,Large,No,Loyalty Program,High,474.81,35,2025-01-23
+694,Large,Yes,,High,564.91,45,2024-05-17
+695,Small,No,,Low,694.27,46,2025-03-27
+696,Medium,No,Better Customer Support,High,451.59,8,2024-08-10
+697,Large,Yes,,Low,293.93,44,2024-12-08
+698,Small,Yes,,Medium,557.9,55,2025-12-03
+699,Small,No,Better Customer Support,Low,639.0,55,2023-07-26
+700,Medium,Yes,,Low,469.62,22,2023-05-31
+701,Large,No,Better Customer Support,High,429.5,21,2024-10-29
+702,Large,No,Discount,High,456.27,26,2024-06-11
+703,Small,Yes,Loyalty Program,Low,585.02,40,2023-06-14
+704,Small,No,Loyalty Program,High,454.55,21,2025-07-05
+705,Medium,No,,High,532.88,25,2025-10-06
+706,Medium,No,,High,502.78,41,2023-02-06
+707,Large,No,,Low,492.46,1,2023-11-29
+708,Large,No,Loyalty Program,High,570.13,6,2024-02-07
+709,Small,Yes,Discount,Low,452.14,23,2024-02-18
+710,Large,No,Discount,High,456.94,51,2023-02-14
+711,Medium,No,Loyalty Program,Medium,579.76,23,2023-07-25
+712,Medium,Yes,Discount,High,401.31,43,2023-03-03
+713,Small,No,Loyalty Program,High,411.98,43,2024-02-24
+714,Medium,No,Discount,Low,373.97,23,2025-05-17
+715,Medium,No,Better Customer Support,Low,584.9,32,2025-03-30
+716,Medium,Yes,Better Customer Support,High,489.48,30,2023-01-19
+717,Medium,No,Loyalty Program,Medium,368.64,13,2023-12-31
+718,Small,No,Discount,High,585.38,43,2025-10-27
+719,Small,Yes,,High,444.45,18,2024-03-03
+720,Large,Yes,Discount,Medium,412.83,23,2024-08-02
+721,Medium,Yes,Better Customer Support,Low,480.43,15,2024-06-29
+722,Large,No,Better Customer Support,High,647.87,33,2023-11-21
+723,Small,No,Discount,Low,460.5,21,2023-02-24
+724,Small,No,Discount,Low,557.53,57,2025-02-16
+725,Small,No,,Medium,572.71,39,2025-09-18
+726,Small,Yes,,Medium,544.33,23,2023-02-11
+727,Small,No,Discount,Low,627.11,27,2023-08-19
+728,Small,No,Discount,High,429.29,45,2024-03-28
+729,Small,Yes,Discount,Low,395.67,44,2024-01-29
+730,Medium,Yes,Discount,High,393.7,18,2024-11-21
+731,Large,Yes,Loyalty Program,High,485.55,24,2024-01-27
+732,Small,No,Discount,Medium,405.3,51,2024-08-26
+733,Medium,No,,High,514.75,47,2025-05-30
+734,Medium,No,Better Customer Support,High,507.7,40,2023-03-26
+735,Large,No,Loyalty Program,Low,601.86,51,2025-11-19
+736,Small,No,Discount,Medium,529.11,42,2023-02-18
+737,Large,No,Better Customer Support,High,458.38,7,2023-03-10
+738,Small,No,Loyalty Program,High,541.08,50,2025-12-17
+739,Medium,Yes,Better Customer Support,Medium,396.98,48,2024-11-27
+740,Medium,Yes,Discount,Low,496.19,20,2024-04-23
+741,Medium,Yes,Discount,Medium,531.94,27,2025-03-30
+742,Medium,Yes,,Medium,512.93,6,2023-05-27
+743,Large,No,Discount,High,541.51,27,2025-10-12
+744,Small,No,Discount,High,435.6,9,2024-08-31
+745,Small,Yes,Loyalty Program,Low,615.2,53,2024-03-21
+746,Large,Yes,,High,682.22,45,2023-08-09
+747,Small,No,Loyalty Program,High,339.73,57,2023-04-05
+748,Medium,No,Better Customer Support,Medium,378.44,31,2023-09-19
+749,Small,No,Discount,High,504.31,21,2025-06-15
+750,Medium,No,Better Customer Support,Low,474.34,26,2025-12-30
+751,Large,Yes,Loyalty Program,Medium,689.64,40,2023-08-07
+752,Small,Yes,Discount,Low,521.98,48,2023-04-02
+753,Large,No,Discount,Medium,639.25,45,2023-05-07
+754,Small,No,Loyalty Program,High,295.09,13,2023-03-21
+755,Medium,Yes,Loyalty Program,Medium,581.42,49,2025-09-09
+756,Large,No,Loyalty Program,Medium,428.45,23,2025-07-04
+757,Small,No,Loyalty Program,High,426.85,20,2024-04-30
+758,Medium,No,Loyalty Program,High,475.16,37,2024-11-24
+759,Large,No,Discount,Low,357.54,54,2023-01-25
+760,Large,No,Loyalty Program,Low,544.28,53,2023-06-05
+761,Small,No,Discount,High,519.07,28,2024-09-23
+762,Small,No,Discount,High,526.62,17,2025-12-16
+763,Small,Yes,Loyalty Program,High,588.7,28,2023-01-19
+764,Medium,Yes,Loyalty Program,Medium,651.48,41,2023-08-25
+765,Small,No,,Medium,463.63,2,2023-10-04
+766,Large,No,Discount,Medium,547.74,25,2025-01-14
+767,Large,Yes,Loyalty Program,High,529.3,58,2024-07-05
+768,Small,No,Loyalty Program,Low,537.76,50,2024-09-30
+769,Small,No,Loyalty Program,High,539.26,41,2023-08-25
+770,Large,Yes,,Medium,659.05,6,2025-09-24
+771,Medium,No,,Medium,454.03,11,2023-02-24
+772,Small,No,Better Customer Support,High,347.43,57,2024-11-14
+773,Small,No,Discount,High,430.21,38,2023-04-19
+774,Large,Yes,Better Customer Support,Medium,575.73,6,2024-01-08
+775,Small,No,Loyalty Program,Medium,502.33,45,2025-08-30
+776,Medium,No,,Medium,453.24,11,2023-07-20
+777,Large,No,,High,392.35,14,2025-04-28
+778,Small,No,Better Customer Support,Medium,522.13,2,2024-05-23
+779,Large,No,,Medium,564.45,40,2023-10-02
+780,Small,No,Loyalty Program,Low,530.59,3,2023-07-30
+781,Small,No,,High,474.67,55,2024-05-18
+782,Small,No,Better Customer Support,Low,514.66,53,2024-12-03
+783,Medium,Yes,Loyalty Program,Low,514.08,35,2023-02-11
+784,Medium,No,Better Customer Support,Medium,518.97,33,2023-11-11
+785,Large,No,,High,381.57,24,2025-02-26
+786,Small,No,Better Customer Support,Medium,519.73,19,2023-11-25
+787,Small,Yes,Better Customer Support,High,455.94,18,2025-11-06
+788,Medium,No,Discount,Low,604.06,49,2023-10-10
+789,Small,No,,High,513.29,52,2025-07-31
+790,Medium,No,,Medium,583.55,24,2023-09-15
+791,Small,Yes,Better Customer Support,Medium,469.82,45,2024-07-28
+792,Large,No,Discount,Medium,473.43,35,2024-07-27
+793,Small,No,,High,649.43,1,2024-09-03
+794,Small,Yes,Loyalty Program,Low,543.63,36,2025-11-08
+795,Medium,No,Better Customer Support,Low,428.55,25,2025-04-16
+796,Small,No,,High,589.7,45,2024-02-27
+797,Small,No,Loyalty Program,Medium,446.67,49,2025-01-27
+798,Medium,No,,Low,522.57,43,2025-02-01
+799,Large,No,Loyalty Program,Medium,683.67,34,2024-02-28
+800,Large,No,Better Customer Support,High,356.87,25,2024-03-04
+801,Medium,No,,Medium,482.42,16,2023-07-23
+802,Medium,No,,Low,540.83,34,2023-07-15
+803,Medium,No,Discount,Low,576.47,29,2024-12-28
+804,Medium,No,Better Customer Support,Medium,375.88,19,2023-10-12
+805,Medium,No,Loyalty Program,High,346.42,23,2023-07-15
+806,Large,No,,Medium,609.07,19,2023-11-03
+807,Large,No,,High,427.96,25,2023-01-14
+808,Medium,No,Loyalty Program,Medium,423.77,16,2025-12-16
+809,Small,No,Better Customer Support,Low,655.02,54,2024-12-23
+810,Medium,Yes,Discount,High,506.97,51,2025-02-18
+811,Small,No,Discount,High,507.62,9,2024-06-12
+812,Medium,Yes,,High,482.02,1,2025-03-08
+813,Medium,No,Loyalty Program,Low,377.6,42,2023-12-10
+814,Large,No,,Medium,567.57,19,2023-07-28
+815,Small,No,Loyalty Program,Low,540.95,33,2024-10-02
+816,Small,No,Discount,High,516.87,34,2023-09-09
+817,Large,No,Better Customer Support,Medium,488.37,16,2023-09-28
+818,Large,No,Loyalty Program,Low,470.77,44,2025-07-08
+819,Large,Yes,Discount,High,591.25,40,2024-02-23
+820,Large,No,,High,485.87,55,2025-03-05
+821,Small,Yes,Loyalty Program,Low,493.59,18,2024-12-25
+822,Small,Yes,Better Customer Support,Low,552.99,34,2024-03-08
+823,Medium,No,,Low,520.8,25,2023-04-19
+824,Medium,No,,High,664.23,45,2024-10-02
+825,Large,No,Discount,Low,323.86,6,2025-12-06
+826,Large,No,Loyalty Program,High,529.99,21,2024-01-14
+827,Large,No,,Low,429.44,58,2025-08-15
+828,Medium,No,Better Customer Support,High,405.79,6,2023-04-13
+829,Medium,No,Loyalty Program,High,454.29,32,2025-06-10
+830,Medium,No,Better Customer Support,Medium,505.47,41,2025-05-03
+831,Medium,Yes,,Low,509.91,48,2025-11-16
+832,Medium,No,Better Customer Support,Low,348.27,43,2024-06-13
+833,Medium,No,Discount,High,445.89,39,2024-11-09
+834,Medium,No,Better Customer Support,High,528.12,31,2025-09-15
+835,Large,No,Loyalty Program,High,412.31,42,2024-03-03
+836,Large,No,Better Customer Support,Medium,388.52,10,2025-04-01
+837,Large,No,Better Customer Support,Medium,274.39,30,2025-07-20
+838,Large,No,Discount,High,433.68,57,2025-11-27
+839,Medium,No,Better Customer Support,Low,385.04,52,2024-05-25
+840,Small,No,Better Customer Support,Low,401.61,18,2024-01-28
+841,Medium,No,,Medium,472.82,24,2024-12-13
+842,Small,Yes,,Medium,440.02,52,2024-05-08
+843,Large,Yes,Loyalty Program,High,383.38,9,2024-06-30
+844,Medium,Yes,,Low,288.42,31,2024-08-16
+845,Large,No,,High,530.23,15,2024-01-24
+846,Medium,No,,Medium,575.28,4,2023-06-07
+847,Large,Yes,,Low,460.33,40,2025-10-24
+848,Small,No,Discount,Low,473.42,9,2023-06-16
+849,Small,Yes,,Medium,500.28,45,2025-08-17
+850,Small,No,Discount,High,657.88,9,2024-02-13
+851,Medium,No,Discount,High,343.23,26,2023-07-13
+852,Small,Yes,,Low,458.55,4,2023-08-23
+853,Medium,No,Better Customer Support,Medium,327.8,17,2024-12-18
+854,Small,Yes,Discount,Low,536.23,16,2025-03-26
+855,Small,Yes,Better Customer Support,Medium,485.6,15,2024-02-08
+856,Medium,No,Better Customer Support,High,520.3,35,2025-06-11
+857,Medium,No,,Medium,515.31,57,2024-11-08
+858,Small,No,Loyalty Program,High,599.07,52,2023-03-09
+859,Medium,No,,Medium,553.81,5,2023-03-29
+860,Small,No,Loyalty Program,Low,583.05,55,2023-08-05
+861,Medium,No,Loyalty Program,High,393.45,5,2023-01-01
+862,Large,Yes,,Low,619.32,20,2023-05-20
+863,Large,No,,Low,427.76,15,2024-09-09
+864,Large,Yes,Loyalty Program,High,433.51,18,2023-05-13
+865,Large,Yes,,High,527.08,47,2023-06-27
+866,Large,No,Loyalty Program,Low,530.19,2,2025-03-20
+867,Small,Yes,Better Customer Support,Low,392.81,29,2024-01-15
+868,Large,No,,Low,482.67,13,2025-06-26
+869,Large,No,Better Customer Support,Low,648.82,4,2024-10-19
+870,Large,Yes,Discount,High,353.17,42,2024-03-25
+871,Large,No,Better Customer Support,High,648.52,45,2024-08-08
+872,Medium,Yes,Better Customer Support,Low,475.83,10,2024-04-07
+873,Small,No,Loyalty Program,Medium,266.22,31,2025-09-16
+874,Large,No,Better Customer Support,Medium,363.33,41,2023-05-02
+875,Large,No,,High,403.65,8,2023-01-17
+876,Large,No,Loyalty Program,Low,437.61,3,2023-11-23
+877,Small,Yes,Discount,Low,489.53,48,2023-11-14
+878,Medium,No,,High,229.65,46,2025-03-19
+879,Small,No,Discount,Medium,518.68,9,2024-05-17
+880,Medium,No,Better Customer Support,Medium,394.49,30,2023-04-29
+881,Large,No,,Medium,639.05,53,2024-12-10
+882,Large,No,,High,472.98,11,2023-02-14
+883,Small,Yes,Discount,Medium,594.28,35,2023-11-10
+884,Small,Yes,,High,611.03,37,2024-02-22
+885,Medium,No,,High,608.33,42,2024-07-09
+886,Medium,No,,Low,443.36,13,2023-11-22
+887,Small,No,Better Customer Support,Medium,442.08,36,2024-05-29
+888,Medium,No,Discount,High,477.5,56,2023-08-02
+889,Small,No,,Medium,563.62,13,2023-03-15
+890,Medium,Yes,Loyalty Program,Medium,448.93,12,2024-05-23
+891,Small,No,Loyalty Program,Low,488.07,37,2023-11-28
+892,Small,Yes,Loyalty Program,Medium,527.36,10,2024-11-18
+893,Small,No,Loyalty Program,Low,409.51,56,2024-10-18
+894,Medium,No,Better Customer Support,High,403.19,9,2025-10-24
+895,Medium,No,,Medium,484.17,52,2024-08-22
+896,Medium,Yes,Discount,High,497.42,7,2025-12-11
+897,Small,No,,Medium,543.39,2,2023-11-21
+898,Medium,No,Better Customer Support,High,567.19,54,2025-09-18
+899,Medium,No,Loyalty Program,Medium,390.09,56,2024-12-17
+900,Small,Yes,Better Customer Support,Medium,418.79,23,2024-12-23
+901,Large,No,,Medium,402.92,39,2023-10-04
+902,Small,No,Discount,Medium,641.24,40,2024-06-19
+903,Medium,Yes,Better Customer Support,Medium,487.97,39,2023-06-01
+904,Small,Yes,Discount,Medium,501.61,21,2025-08-12
+905,Large,Yes,Better Customer Support,Medium,505.78,23,2023-09-16
+906,Small,No,Discount,Medium,428.43,29,2023-11-20
+907,Medium,No,Discount,Medium,656.43,14,2025-10-13
+908,Large,No,Loyalty Program,High,541.1,26,2025-05-18
+909,Medium,Yes,Discount,Low,503.96,51,2024-11-18
+910,Large,No,Loyalty Program,Medium,389.47,5,2023-11-06
+911,Large,No,,Low,383.81,55,2025-03-13
+912,Small,No,,Medium,469.11,31,2025-12-15
+913,Small,No,Loyalty Program,Medium,430.0,25,2024-09-11
+914,Medium,Yes,Loyalty Program,High,393.26,31,2024-04-17
+915,Small,No,Better Customer Support,High,462.9,50,2024-04-05
+916,Small,No,Better Customer Support,Low,478.36,20,2025-03-24
+917,Large,No,Better Customer Support,High,514.18,44,2025-04-25
+918,Small,No,,High,449.61,55,2024-10-28
+919,Large,No,Better Customer Support,Low,399.24,17,2023-09-19
+920,Large,No,Discount,High,402.71,45,2023-12-21
+921,Large,Yes,Discount,Medium,621.3,2,2025-02-08
+922,Medium,Yes,Better Customer Support,Low,374.82,25,2023-06-29
+923,Medium,No,Discount,Low,536.32,13,2023-03-07
+924,Medium,No,,Medium,551.95,58,2025-03-30
+925,Large,Yes,Discount,High,487.87,39,2023-06-20
+926,Medium,Yes,,Low,676.78,28,2024-04-18
+927,Medium,Yes,Loyalty Program,Low,550.17,42,2024-06-17
+928,Small,No,Loyalty Program,Medium,684.29,55,2024-03-14
+929,Medium,Yes,Loyalty Program,Medium,434.89,6,2025-04-14
+930,Medium,No,Loyalty Program,High,436.61,3,2023-08-15
+931,Large,Yes,Discount,Low,552.75,58,2024-03-17
+932,Large,No,Better Customer Support,High,473.85,35,2024-01-31
+933,Large,Yes,Discount,High,668.57,18,2024-12-28
+934,Large,No,,Medium,534.17,11,2023-03-25
+935,Large,Yes,Discount,Low,395.54,54,2025-11-02
+936,Large,No,Discount,Low,326.32,20,2024-11-23
+937,Medium,Yes,,Low,492.18,5,2024-05-07
+938,Large,No,Loyalty Program,Medium,491.09,19,2025-08-27
+939,Large,No,Loyalty Program,Medium,531.38,22,2023-12-19
+940,Small,No,Loyalty Program,Medium,621.07,59,2025-12-16
+941,Medium,No,Better Customer Support,Medium,607.91,19,2023-02-09
+942,Medium,No,,Medium,442.11,47,2024-10-01
+943,Medium,No,,Low,370.62,16,2023-06-22
+944,Large,No,Discount,High,376.59,24,2023-09-16
+945,Large,No,Better Customer Support,Low,426.32,41,2024-05-31
+946,Large,No,Loyalty Program,High,463.33,4,2024-12-30
+947,Small,No,Better Customer Support,Medium,530.51,15,2024-06-06
+948,Large,No,,High,419.9,25,2025-04-18
+949,Small,No,,Low,528.04,44,2023-04-27
+950,Medium,Yes,Discount,Low,536.2,55,2023-07-03
+951,Large,No,Discount,High,514.33,35,2023-06-11
+952,Small,No,,Medium,387.14,55,2024-06-26
+953,Small,Yes,Loyalty Program,Medium,546.78,14,2025-04-18
+954,Large,No,Loyalty Program,Low,708.13,49,2025-12-25
+955,Medium,Yes,Better Customer Support,High,524.59,19,2025-12-29
+956,Medium,No,,Medium,204.69,38,2024-03-22
+957,Medium,Yes,,Medium,624.09,36,2024-02-20
+958,Small,No,Loyalty Program,Low,429.73,7,2024-06-15
+959,Small,No,Loyalty Program,Medium,726.57,30,2024-03-16
+960,Small,No,,High,511.64,19,2025-01-07
+961,Small,No,Discount,Low,331.53,49,2024-04-08
+962,Medium,No,,Low,293.53,25,2024-01-31
+963,Large,No,,High,653.97,16,2024-12-11
+964,Small,Yes,Loyalty Program,Low,610.59,47,2024-01-30
+965,Small,No,Loyalty Program,Medium,722.6,54,2023-11-22
+966,Medium,Yes,Discount,Medium,501.09,40,2025-01-19
+967,Large,No,Discount,High,494.35,51,2025-12-29
+968,Large,No,Better Customer Support,Medium,461.73,8,2024-10-03
+969,Medium,No,,High,434.17,18,2023-08-02
+970,Medium,No,Loyalty Program,High,460.76,28,2024-01-04
+971,Large,No,Discount,Medium,521.75,16,2023-02-18
+972,Small,No,Better Customer Support,High,415.61,52,2025-12-11
+973,Large,Yes,Better Customer Support,Medium,333.07,19,2023-05-13
+974,Medium,No,Loyalty Program,Low,515.99,42,2025-09-25
+975,Small,Yes,Loyalty Program,Low,413.38,17,2025-02-24
+976,Small,No,Better Customer Support,High,176.06,45,2024-01-08
+977,Medium,No,Discount,Medium,555.26,13,2024-04-23
+978,Medium,No,Better Customer Support,Medium,389.19,7,2025-04-11
+979,Medium,Yes,,Low,566.18,27,2024-10-11
+980,Large,No,,Low,563.78,10,2024-11-12
+981,Large,Yes,Loyalty Program,Medium,528.36,34,2024-11-18
+982,Small,No,Discount,High,749.68,36,2023-03-23
+983,Medium,Yes,Discount,Low,486.19,25,2023-03-28
+984,Small,No,,High,471.44,6,2023-08-13
+985,Small,No,Better Customer Support,High,568.37,24,2023-01-16
+986,Small,No,Loyalty Program,Low,494.46,18,2025-04-01
+987,Small,No,Better Customer Support,High,616.05,23,2023-06-12
+988,Medium,No,Better Customer Support,High,373.12,6,2024-05-28
+989,Small,No,Better Customer Support,Medium,374.78,29,2023-12-16
+990,Medium,No,Discount,High,576.58,25,2024-11-11
+991,Medium,No,,Medium,383.52,55,2023-06-30
+992,Large,No,Discount,Low,560.91,17,2025-01-12
+993,Medium,No,,Low,537.0,46,2024-10-21
+994,Large,No,Loyalty Program,Medium,430.55,24,2024-05-07
+995,Medium,Yes,Loyalty Program,Low,536.72,11,2025-07-11
+996,Medium,No,Better Customer Support,High,376.54,26,2023-05-08
+997,Medium,Yes,,High,400.01,51,2024-07-18
+998,Large,No,,High,476.28,34,2024-07-03
+999,Large,No,,Low,507.89,28,2024-03-28
+1000,Small,No,Better Customer Support,High,469.64,3,2024-04-15
